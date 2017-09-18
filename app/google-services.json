@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "817949867496",
+    "firebase_url": "https://fir-update-d8cf6.firebaseio.com",
+    "project_id": "fir-update-d8cf6",
+    "storage_bucket": "fir-update-d8cf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817949867496:android:a0c9077491e81d79",
+        "android_client_info": {
+          "package_name": "com.retrocode.firebaseupdate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817949867496-a8n47e1ofgsmj4hf8mqeedbns157ad7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retrocode.firebaseupdate",
+            "certificate_hash": "e5379783558b936301223af6cd34472ad0a895e7"
+          }
+        },
+        {
+          "client_id": "817949867496-9n7g1jkekp4bkh2mp5vptb955foqgkt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4nF2RxYI4r3cpTyk7CKNCturlIhEi-Ec"
+        },
+        {
+          "current_key": "AIzaSyDLseE62hviHU9Hf__vJwib9wvwiPjug8k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817949867496-9n7g1jkekp4bkh2mp5vptb955foqgkt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

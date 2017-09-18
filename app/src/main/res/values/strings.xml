@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseUpdate</string>
+    <string name="log_out">Logout</string>
+    <string name="seconds_to_update_firebase">Seconds to update firebase</string>
+    <string name="submit">submit</string>
+    <string name="firebase_is_updating_your_data">Firebase is updating your data...</string>
+</resources>
